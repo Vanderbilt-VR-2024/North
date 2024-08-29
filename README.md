@@ -18,3 +18,7 @@ Favorite Candy: Sour Patch Kids
 Name: Marius<br>
 Favorite Ice Cream: Superhero<br>
 Favorite Candy: Sour Patch Kids<br>
+
+Name: Caitlin
+Favorite Ice Cream: Chocolate
+Favorite Candy: Mounds
