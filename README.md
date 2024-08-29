@@ -12,6 +12,6 @@ Name: Kevin
 Favorite Ice Cream: Mint Chocolate Chip
 Favorite Candy: Sour Patch Kids
 
-Name: Marius  
-Favorite Ice Cream: Superhero
-Favorite Candy: Sour Patch Kids
+Name: Marius<br>
+Favorite Ice Cream: Superhero<br>
+Favorite Candy: Sour Patch Kids<br>
